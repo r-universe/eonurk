@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cinaR",
+    "oncran": true
+  },
+  {
+    "package": "cinaRgenesets",
+    "oncran": true
+  }
+]

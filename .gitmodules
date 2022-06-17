@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cinaR"]
+	path = cinaR
+	url = https://github.com/eonurk/cinar
+	shallow = true
+	registered = true
+[submodule "cinaRgenesets"]
+	path = cinaRgenesets
+	url = https://github.com/eonurk/cinar-genesets
+	shallow = true
+	registered = true
