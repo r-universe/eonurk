@@ -6,5 +6,9 @@
   {
     "package": "cinaRgenesets",
     "oncran": true
+  },
+  {
+    "package": "seAMLess",
+    "oncran": true
   }
 ]
