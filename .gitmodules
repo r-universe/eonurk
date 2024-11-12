@@ -8,3 +8,6 @@
 [submodule "cinaRgenesets"]
 	path = cinaRgenesets
 	url = https://github.com/eonurk/cinar-genesets
+[submodule "seAMLess"]
+	path = seAMLess
+	url = https://github.com/eonurk/seamless
